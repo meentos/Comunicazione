@@ -20,7 +20,7 @@ import java.util.logging.Logger;
  * @version dic 2022
  */
 public class Server {
-
+// sono supremo
     ServerSocket connection;
     Socket clientSocket;
     int porta;
